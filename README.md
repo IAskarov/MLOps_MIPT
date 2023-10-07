@@ -1,0 +1,1 @@
+This repository for MIPT course "MLOps"
